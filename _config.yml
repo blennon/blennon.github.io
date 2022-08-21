@@ -11,21 +11,21 @@ safe: true
 
 
 # edit here to achieve your personal greatness
-url: http://username.github.io/
-baseurl: /sustain/
-title: Chris Turner
-author: Chris Turner
-description: Personal blog and resume
+url: http://blennon.github.io/
+baseurl: /
+title: Bill Lennon
+author: Bill Lennon
+description: Personal site
 avatar: profile.png
-email: yourname@email.com
-github: jekyllt/sustain # username
-twitter: username
-linkedin: username
-stackoverflow: username   #e.g: users/2735833/proton1h1
-medium: username #e.g: NobelPeaceOslo
+email: blennon86@email.com
+github: blennon # username
+twitter: blennon_
+linkedin: blennon
+#stackoverflow: username   #e.g: users/2735833/proton1h1
+#medium: username #e.g: NobelPeaceOslo
 #Comment out if you don't want disqus
-disqus: username
-google_analytics: UA-69391421-1
+#disqus: username
+#google_analytics: UA-69391421-1
 
 
 # needed for travis-ci build
