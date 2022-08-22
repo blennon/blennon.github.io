@@ -1,32 +1,6 @@
-# Sustain
+# Getting started
 
-[![Build Status](https://github.com/jekyllt/sustain/actions/workflows/jekyll_build.yml/badge.svg)](https://github.com/jekyllt/sustain/actions/workflows/jekyll_build.yml)
-[![Ruby](https://img.shields.io/badge/ruby-2.6.3-blue.svg?style=flat)](http://travis-ci.org/jekyllt/sustain)
-[![Jekyll](https://img.shields.io/badge/jekyll-3.9.0-blue.svg?style=flat)](http://travis-ci.org/jekyllt/sustain)
-
-Personal blog built with [Bootstrap](http://getbootstrap.com/), powered by [Jekyll](http://jekyllrb.com/) and freely
-hosted in [Github pages](https://pages.github.com/).
-
-
-## View the live demo
-
-[Sustain Live Demo](https://jekyllt.github.io/sustain)
-
-
-## Screenshots
-
-**Home page**
-![home page](https://raw.githubusercontent.com/jekyllt/sustain/gh-pages/assets/images/screen1.png)
-
-**Blog page**
-![blog page](https://raw.githubusercontent.com/jekyllt/sustain/gh-pages/assets/images/screen2.png)
-
-**Post page**
-![post page](https://raw.githubusercontent.com/jekyllt/sustain/gh-pages/assets/images/screen3.png)
-
-**Projects page**
-![project page](https://raw.githubusercontent.com/jekyllt/sustain/gh-pages/assets/images/screen4.png)
-
+To run locally: bundle exec jekyll serve --incremental
 
 ### Deployment
 
@@ -62,18 +36,6 @@ advantages in that you simply push your file changes to GitHub and all the HTML 
 are generated for you and pushed to *gh-pages*. Also you get to know if everything is
 still fine with your site builds. Don't hesitate to contact me if you still have any
 issues (see below about issue tracking).
-
-
-## Issues and contributing
-
-This install builds well with Ruby v2.6.3 and Jekyll v3.9.0. If you run into any problems please log them on the [issue tracker](https://github.com/jekyllt/sustain/issues).
-
-Feel free pull-request your patches and fixes.
-
-
-## Thanks
-
-Profile picture from [pexels](https://www.pexels.com/photo/portrait-black-african-ethnicity-person-9494/).
 
 
 ## Copyright & License
