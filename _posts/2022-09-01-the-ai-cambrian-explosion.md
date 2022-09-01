@@ -19,7 +19,7 @@ One of the reasons the AI community is so excited is because they are steeped in
 
 In 2012 [AlexNet](https://en.wikipedia.org/wiki/AlexNet), one of the first “deep” neural networks for object recognition made a huge leap forward in performance that caught the machine learning community’s attention. That was a shot across the bow that began an enormous shift of focus to deep learning and ignited new interest in neural networks. 
 
-[https://twitter.com/jackclarkSF/status/1542723429580689408](https://twitter.com/jackclarkSF/status/1542723429580689408)
+<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Things are getting... Extremely weird. Think about what this graph may look like in spring 2023 (was published April 2021). From the excellent Dynabench paper <a href="https://t.co/v3TkBgSATM">https://t.co/v3TkBgSATM</a> <a href="https://t.co/gApjigp21W">pic.twitter.com/gApjigp21W</a></p>&mdash; Jack Clark (@jackclarkSF) <a href="https://twitter.com/jackclarkSF/status/1542723429580689408?ref_src=twsrc%5Etfw">July 1, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 In 2017, the Transformer architecture was introduced and changed the game for natural language processing. To me, that paper is the inflection point where progress accelerated. Since then we’ve seen variations of the transformer for vision, audio, tabular and multi-modal data and massive increases in model sizes. This innovations have pushed the state-of-the-art so quickly that the community is for the first time struggling to come up with benchmark challenges fast enough!
 
@@ -31,7 +31,7 @@ What’s remarkable beyond the explosion of interest and generated images on Twi
 
 Lexica is a search engine for (prompt, image) pairs that overnight reached 55,000 searches.
 
-[https://twitter.com/sharifshameem/status/1562872737495785472](https://twitter.com/sharifshameem/status/1562872737495785472)
+<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Some Lexica stats 24 hours post-launch:<br><br>- 51,000 search queries<br>- 7.5 million images served<br>- 2.2 TB in bandwidth <br><br>thank god for cloudflare</p>&mdash; Sharif Shameem (@sharifshameem) <a href="https://twitter.com/sharifshameem/status/1562872737495785472?ref_src=twsrc%5Etfw">August 25, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Other tools like [Photoshop plugins](https://twitter.com/wbuchw/status/1563162131024920576), [Figma plugins](https://twitter.com/RemitNotPaucity/status/1562319004563173376), [Web GUIs](https://twitter.com/altryne/status/1563452692399214594), and more have launched within days of the release of the open source Stable Diffusion model. We’re witnessing the genesis of an entirely new market for art.
 
@@ -41,11 +41,11 @@ While image generation models are deservedly getting a tremendous amount of atte
 
 I see two broad areas of effort. The first is increasing the size of the models. The remarkable empirical observation is that as you increase the size of the model, new capabilities *emerge!* Although recently new results in this area seem to have slowed and there is [evidence of hitting a wall](https://twitter.com/davisblalock/status/1563455844670246912) with parameter count in recommender systems which needs to be made up for with more data.
 
-[https://twitter.com/_jasonwei/status/1537230731599962112](https://twitter.com/_jasonwei/status/1537230731599962112)
+<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">New survey paper! We discuss “emergent abilities” of large language models.<br><br>Emergent abilities are only present in sufficiently large models, and thus they would not have been predicted simply by extrapolating the scaling curve from smaller models.<a href="https://t.co/qX3OtaPQH9">https://t.co/qX3OtaPQH9</a><br><br>🧵⬇️ <a href="https://t.co/CNiExpxjD1">pic.twitter.com/CNiExpxjD1</a></p>&mdash; Jason Wei (@_jasonwei) <a href="https://twitter.com/_jasonwei/status/1537230731599962112?ref_src=twsrc%5Etfw">June 16, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 The other area of progress is in sequentially interacting with one or multiple language models to carry out a more robust reasoning process. While this is bearing fruit, it’s not yet a solve problem. Still, given the pace of progress, it seems reasonable that in 12-24 months these models will be capable and robust *enough* to deliver real world value.
 
-[https://twitter.com/mpshanahan/status/1565329081251827713](https://twitter.com/mpshanahan/status/1565329081251827713)
+<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">I’m pleased to announce a new <a href="https://twitter.com/DeepMind?ref_src=twsrc%5Etfw">@DeepMind</a> paper on work led by <a href="https://twitter.com/ToniCreswell?ref_src=twsrc%5Etfw">@ToniCreswell</a>: <a href="https://t.co/uCeDu4Prhx">https://t.co/uCeDu4Prhx</a>. Our system makes sequential calls to several fine-tuned language models to solve multi-step reasoning problems, producing an explicit, interpretable reasoning trace. 1/n <a href="https://t.co/MUafxx4WVh">pic.twitter.com/MUafxx4WVh</a></p>&mdash; Murray Shanahan (@mpshanahan) <a href="https://twitter.com/mpshanahan/status/1565329081251827713?ref_src=twsrc%5Etfw">September 1, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 # AI Tailwinds
 
