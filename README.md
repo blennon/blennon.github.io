@@ -1,6 +1,6 @@
 # Getting started
 
-To run locally: bundle exec jekyll serve --incremental
+To run locally: bundle exec jekyll serve
 
 ### Deployment
 
