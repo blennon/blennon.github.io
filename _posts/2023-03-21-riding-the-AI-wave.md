@@ -9,7 +9,7 @@ tags:
 - GPT-4
 ---
 
-Last week GPT-4 was released and a collective wave of excitement and unease washed over the community as we try to make sense of it. Through conversation with lots of smart people like @mbusigin, @oren and others, I’ve formed a mental model to better understand what’s going on.
+Last week GPT-4 was released and a collective wave of excitement and unease washed over the community as we try to make sense of it. Through conversation with lots of smart people like Matt Busigin, Oren Montano and others, I’ve formed a mental model to better understand what’s going on.
 
 Imagine floating in the middle of the ocean, staring at an incoming wave. As it approaches, it suddenly sweeps you up, and when you reach its peak, you realize it's not a wave but rather a whole shelf of water. You're now permanently elevated.
 
