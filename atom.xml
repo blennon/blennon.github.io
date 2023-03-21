@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  
+    <title type="text" xml:lang="en">Bill Lennon</title>
+    <link type="application/atom+xml" rel="self" href="http://blennon.github.io//atom.xml"/>
+  
+  <link href="http://blennon.github.io//"/>
+  <id>http://blennon.github.io//</id>
+  <updated>2023-03-21T21:22:10Z</updated>
+  <author>
+    <name>Bill Lennon</name>
+    <email></email>
+  </author>
+  <rights type="text">Copyright © 2023 Bill Lennon. All rights reserved.</rights>
+  
+  <entry>
+  <title type="text">Riding the AI Wave</title>
+  <link rel="alternate" type="text/html" href="http://blennon.github.io//riding-the-AI-wave.html" />
+  <id>http://blennon.github.io//riding-the-AI-wave</id>
+  <published>2023-03-21T00:00:00Z</published>
+  <updated>2023-03-21T00:00:00Z</updated>
+  <content type="html"><![CDATA[ <p>Last week GPT-4 was released and a collective wave of excitement and unease washed over the community as we try to make sense of it. Through conversation with lots of smart people like Matt Busigin, Oren Montano and others, I’ve formed a mental model to better understand what’s going on.</p>
+
+<p>Imagine floating in the middle of the ocean, staring at an incoming wave. As it approaches, it suddenly sweeps you up, and when you reach its peak, you realize it’s not a wave but rather a whole shelf of water. You’re now permanently elevated.</p>
+
+<p>Looking in the direction from which the wave came, you see another wave, taller and closer than the previous one. When it arrives, it lifts you to an even higher level. This process continues, with each wave growing taller and arriving faster sweeping you higher at an accelerating rate. If you were to graph this, would look like a bunch of steps that approximates an exponential function when graphed.</p>
+
+<p>This is the reality we face with AI advancements today. The release of the Transformer paper in 2017 was just the first wave, followed by GPT-1, GPT-2, GPT-3, and now GPT-4. If we extrapolate this, we can expect even more significant developments at an accelerating pace.</p>
+
+<p>So, how do we cope with this rapid change? How can we, as entrepreneurs, skate to where the puck is going?</p>
+
+<ol>
+  <li>
+    <p>Assume progress is accelerating. Think exponential not linear. Assume progress will happen sooner than you think.</p>
+  </li>
+  <li>
+    <p>Push yourself to leverage AI everywhere: AI will be a 10-1000X force multiplier. We need to force ourselves to change our behaviors and practices to adopt AI.</p>
+  </li>
+  <li>
+    <p>Maximize the surface area of GPT-4 in your codebase and product. If you think about the percent of code being written by humans vs AI, the latter is growing quickly and it won’t slow down. At some point a ten year old can click a button and have a bespoke killer app built for them.</p>
+  </li>
+  <li>
+    <p>Stay nimble, be adaptable, and don’t be afraid to change tack: In a rapidly evolving landscape, flexibility and adaptability are crucial to staying ahead.</p>
+  </li>
+  <li>
+    <p>Recognize that your own imagination is what will hold you back: Embrace creativity and think outside the box to find innovative ways to harness the power of AI.</p>
+  </li>
+  <li>
+    <p>The biggest source of disruption will be the next wave. Surf it: Stay ahead of the curve by keeping an eye on emerging trends and seizing opportunities as they arise.</p>
+  </li>
+  <li>
+    <p>Enjoy the journey. This is a unique moment in human history.</p>
+  </li>
+</ol>
+
+ ]]></content>
+</entry>
+
+
+  <entry>
+  <title type="text">I'm joining AI2 and building an AI company</title>
+  <link rel="alternate" type="text/html" href="http://blennon.github.io//joining-ai2.html" />
+  <id>http://blennon.github.io//joining-ai2</id>
+  <published>2022-10-31T00:00:00Z</published>
+  <updated>2022-10-31T00:00:00Z</updated>
+  <content type="html"><![CDATA[ <p>I’m incredibly excited to share that I’m joining the <a href="https://ai2incubator.com">AI2 Incubator</a> at the <a href="https://allenai.org">Allen Institute for AI</a> to build an AI-first company!</p>
+
+<p>Building an AI company has long been a goal of mine, and there’s never been a better time.</p>
+
+<h1 id="my-ai-origin-story">My AI origin story</h1>
+
+<p>I fell in love with AI in 2008 when my then-mentor and soon-to-be Ph.D. advisor, <a href="https://en.wikipedia.org/wiki/Robert_Hecht-Nielsen">Robert Hecht-Nielsen</a>, gave me a copy of his <a href="https://ece.ucsd.edu/faculty-research/books-by-faculty/confabulation-theory-mechanism-of-thought">new book on AI</a>. I read it and thought to myself, AI is going to change the world and I’m going to build an AI company to make a positive impact.</p>
+
+<p>In 2011 I took a leave of absence from grad school to start an AI company. “AI is dead and decades away from being useful,” investors told us as we tried unsuccessfully to raise capital. We were still in the last AI “winter” and few saw the potential.</p>
+
+<p>In 2014, I joined another AI startup as a founding engineer. The technology was still too early to be useful, so it went the way of most startups.</p>
+
+<p>After finishing my Ph.D. in 2015 I decided to focus on something with less technology risk and co-founded Groundwork. Six years later, after learning many invaluable lessons from the trenches of building a startup, we were successfully <a href="https://finance.yahoo.com/news/snap-mobile-inc-acquires-sports-140000538.html">acquired</a>.</p>
+
+<p>Over the last few years I’ve watched from the sidelines as the technology has made multiple breakthroughs and felt the gravitational pull back to my passion.</p>
+
+<h1 id="why-start-now">Why start now?</h1>
+
+<p>I wasn’t sure I’d start another company so soon after exiting Groundwork. Startups are hard and the odds are against you. I knew that when I started my next venture, I would want the deck stacked in my favor.</p>
+
+<p>Three things compelled me to start now:</p>
+<ol>
+  <li>Recent advances in AI will enable trillions of dollars of value creation</li>
+  <li>AI2 provides an unfair advantage</li>
+  <li>The economy is shaky which makes it a great time to start a company</li>
+</ol>
+
+<h1 id="recent-advances-in-ai">Recent advances in AI</h1>
+
+<p>AI has a long history of hype, so much so that we’ve had two AI “winters” in the past 60 years. Even in the last decade, AI has been overhyped.</p>
+
+<p>But this time is different. Really.</p>
+
+<p>In a word, the AI of today is more general. We used to have a single, painstakingly trained algorithm that could do one narrow-task, often at superhuman performance or scale (e.g. credit card fraud detection). Today, we have single models that can do hundreds or thousands of tasks. These breakthroughs are thanks to an enormous amount of data and compute available, advances in AI models (i.e. the Transformer) and software infrastructure, and an exponential growth in talent and investment.</p>
+
+<p>These foundation models are enabling striking use cases like writing amazing <a href="https://jasper.ai">marketing copy</a>, <a href="https://twitter.com/AdeptAILabs/status/1570144499187453952">automating complex tasks</a> and <a href="https://runwayml.com/">creating stunning video content</a>.</p>
+
+<p>Frankly, it’s still early days and we’re still discovering the capabilities of these models on a daily basis. On top of that, the pace of research progress is blistering. Most researchers can’t keep up with the firehose of advances. What isn’t quite possible today, has a good chance of being possible in 6, 12 or 18 months.</p>
+
+<h1 id="the-ai2-incubator">The AI2 Incubator</h1>
+
+<p>I knew if I started an AI company I would need top-notch talent, access to the best investors and an environment to explore and form a new venture. AI2 provides that in spades.</p>
+
+<p>AI2 is one of the leading AI research organizations in the world. I’ve read their research papers with excitement over the last few years and saw breakthroughs like ELMO, Longformer and UnifiedIO being made.</p>
+
+<p>As an AI entrepreneur, I care about delivering value to customers. This requires a balance between knowing what value we can deliver today to start building a business and what might be possible in the next few years to enable a bigger vision. Having access to the best minds driving the research short-cuts discovery and provides a sneak peak into the future.</p>
+
+<p>The team behind the incubator are incredibly talented and visionary. They see the potential I see and have crafted a supportive, constructive program to rapidly explore and test ideas and provide a pathway to funding, backed by the best investors: Sequoia, Kleiner Perkins, Madrona, Two Sigma, and on.</p>
+
+<p>It’s the unfair advantage I was looking for.</p>
+
+<p>I’m incredibly excited to start this journey and look forward to sharing more with you.</p>
+ ]]></content>
+</entry>
+
+
+  <entry>
+  <title type="text">Strategy for building a generative AI startup</title>
+  <link rel="alternate" type="text/html" href="http://blennon.github.io//strategy-for-building-generative-ai-startup.html" />
+  <id>http://blennon.github.io//strategy-for-building-generative-ai-startup</id>
+  <published>2022-10-26T00:00:00Z</published>
+  <updated>2022-10-26T00:00:00Z</updated>
+  <content type="html"><![CDATA[ <p>Foundation models are 🔥🔥🔥 and now is an incredible time to build a generative AI startup. With the pace of change so fast, what’s the best strategy. Here are my thoughts.</p>
+
+<h1 id="the-situation-today">The situation today</h1>
+
+<h2 id="the-technology-landscape-is-evolving-rapidly">The technology landscape is evolving rapidly</h2>
+<p>Three things are happening.</p>
+
+<p>The first is that the capabilities of existing models like GPT3 are being “discovered” by new prompt engineering techniques like Chain of Thought prompting and Self Ask. We’re learning how to squeeze out as much capabilility as possible – a lot of which is non-obvious.</p>
+
+<p>The second is that new tooling like <a href="http://Dust.tt">Dust</a>, <a href="https://www.everyprompt.com">Everyprompt</a>, LangChain and WebLM are making it easier to develop applications.</p>
+
+<p>Third is that models are improving through innovations in training objectives (e.g. Google’s UL2), finetuning (supervised and reinforcement learning through human feedback), multi-modal models and open sourced models like Whisper and Stable Diffusion.</p>
+
+<h2 id="foundation-models-are-a-new-medium">Foundation models are a new medium</h2>
+<p>When new mediums are introduced, it takes time for us to figure out how to best utilize them. This is happening now, rapidly, with generative models. Know-how to leverage and apply them is still primitive, but developing. Most engineers and entrepreneurs are still unaware of their capabilities.</p>
+
+<h2 id="opportunties-are-non-obvious">Opportunties are non-obvious</h2>
+<p>A lot of opportunities to deliver value to customers are non-obvious because we’re accustomed to thinking in a pre-generative AI world. In a few years we’ll look back and say to ourselves, “why didn’t I think of that”. More opportunities will be discovered as capabilities become <em>possible</em> and <em>known</em>. To find those possibilities, you have to “live in future, then build what’s missing”, as <a href="http://paulgraham.com/startupideas.html">Paul Graham says</a>.</p>
+
+<h1 id="strategy">Strategy</h1>
+<p>Given the above, how do you setup yourself up for success as a founder in this environment?</p>
+
+<p>I believe <em>the most important thing is to get to market as fast as possible</em>.</p>
+
+<p>Here are my operating principles:</p>
+<ul>
+  <li>Pick a general direction and go. Pick a direction that’s interesting, has founder-market fit and seems opportune. You’re heading into an enormous whitespace.</li>
+  <li>Move fast &amp; build. More velocity –&gt; more distance covered –&gt; more learning and times at bat. Know-how is invaluable and exploring the space helps prime you to seize the opportunities that become obvious.</li>
+  <li>Get to revenue. This forces focus on deliving value to customer. Revenue = proof of value. The market will grow rapidly. Japser.ai, Interiorai.io are great examples of this.</li>
+  <li>Experiment &amp; pivot. Look for signal from the market on value, move fast, experiment a lot and move on quickly. Now isn’t the time to be spending two years building before launch.</li>
+  <li>Don’t be afraid to pivot away from a revenue generating product. Startup resources are precious. Revenue can be a distraction if it’s from a market that doesn’t have huge potential or can’t fund growth. Make a judgement call, pat yourself on the back and move on.</li>
+  <li>Explore and be curious. There will be a lot of non-obvious things that are valuable. You may find that internal tools you build for youself are valuable to the ecosystem.</li>
+  <li>The trend to AGI is your biggest competitor. GPT-4 might make all of your efforts moot and enable your solution out-of-the-box. Think about other defensible moats.</li>
+</ul>
+
+<p>If you follow these principles, you have a higher liklihood of being sucked into a gravitational well of product-market fit and delivering enduring value.</p>
+ ]]></content>
+</entry>
+
+
+  <entry>
+  <title type="text">Remote+</title>
+  <link rel="alternate" type="text/html" href="http://blennon.github.io//remote-plus.html" />
+  <id>http://blennon.github.io//remote-plus</id>
+  <published>2022-10-25T00:00:00Z</published>
+  <updated>2022-10-25T00:00:00Z</updated>
+  <content type="html"><![CDATA[ <p>I’ve been thinking about how I would build my next startup in this new remote-first world.</p>
+
+<p>I see two options:</p>
+<ul>
+  <li>building the kernel of the team locally and then expanding to remote</li>
+  <li>starting remote-first but adding features to make up for the lack of in-person. I call this Remote+</li>
+</ul>
+
+<p>I haven’t settled on one vs the other – both can work well. I wanted to outline what I see as the pros and cons of both.</p>
+
+<h2 id="local-kernel-then-expand-remotely">Local kernel, then expand remotely</h2>
+
+<p>The energy and enthusiasm of being shoulder to shoulder is incredibly valuable for a nascent team. It helps the team bond, build culture, allows information to flow easily and builds excitement. This is good for morale and progress.</p>
+
+<p>On the other hand, you miss out on exceptional talent that is available but not local.</p>
+
+<h2 id="remote">Remote+</h2>
+
+<p>With this model you start completely remote and have access to the best talent available ±3 timezones away.</p>
+
+<p>To make up for the lack of in-person engagement, you add features:</p>
+
+<p>VR Presence. Everyone gets a Quest Pro (or comparable) and meets virtually for 1-2 hours/day. As the technology gets better, the gap between in-person and remote will close.</p>
+
+<p>Monthly meetups. Everyone flies in to a convenient location and works together in a co-working space for a few days.</p>
+
+ ]]></content>
+</entry>
+
+
+  <entry>
+  <title type="text">The AI Cambrian Explosion</title>
+  <link rel="alternate" type="text/html" href="http://blennon.github.io//the-ai-cambrian-explosion.html" />
+  <id>http://blennon.github.io//the-ai-cambrian-explosion</id>
+  <published>2022-09-01T00:00:00Z</published>
+  <updated>2022-09-01T00:00:00Z</updated>
+  <content type="html"><![CDATA[ <p>The utility and versatility of AI is accelerating and has reached a tipping point where we will see an explosion of AI-first products. Most people outside of the AI community don’t appreciate this, but thanks to DALL-E and Stable Diffusion, awareness is starting to increase as people are able to <em>see and experience</em> these capabilities for themselves.</p>
+
+<p>In this post, I’ll lay out the trail of breadcrumbs that leads me to this conclusion and some of my predictions for the future.</p>
+
+<h1 id="why-researchers-are-so-excited">Why researchers are so excited</h1>
+
+<p>One of the reasons the AI community is so excited is because they are steeped in the research and seeing how quickly the state-of-the-art is advancing. Researchers benchmark AI capabilities on datasets and challenges these models need to solve. For years, progress towards benchmarks was slow and incremental.</p>
+
+<p>In 2012 <a href="https://en.wikipedia.org/wiki/AlexNet">AlexNet</a>, one of the first “deep” neural networks for object recognition made a huge leap forward in performance that caught the machine learning community’s attention. That was a shot across the bow that began an enormous shift of focus to deep learning and ignited new interest in neural networks.</p>
+
+<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Things are getting... Extremely weird. Think about what this graph may look like in spring 2023 (was published April 2021). From the excellent Dynabench paper <a href="https://t.co/v3TkBgSATM">https://t.co/v3TkBgSATM</a> <a href="https://t.co/gApjigp21W">pic.twitter.com/gApjigp21W</a></p>&mdash; Jack Clark (@jackclarkSF) <a href="https://twitter.com/jackclarkSF/status/1542723429580689408?ref_src=twsrc%5Etfw">July 1, 2022</a></blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<p>In 2017, the Transformer architecture was introduced and changed the game for natural language processing. To me, that paper is the inflection point where progress accelerated. Since then we’ve seen variations of the transformer for vision, audio, tabular and multi-modal data and massive increases in model sizes. This innovations have pushed the state-of-the-art so quickly that the community is for the first time struggling to come up with benchmark challenges fast enough!</p>
+
+<h1 id="ecosystems-emerging-and-products-are-going-viral">Ecosystems emerging and products are going viral</h1>
+
+<p>We’re now seeing AI research translated into real world value and ecosystems emerging to support these models. DALL-E rocked the world with stunning AI generated images guided by human prompting. <a href="http://Stability.AI">Stability.AI</a>’s open source stable diffusion made DALL-E obsolete nearly overnight by providing an improved model that is open source and can run on commodity hardware.</p>
+
+<p>What’s remarkable beyond the explosion of interest and generated images on Twitter, Reddit, Discord, etc. is the ecosystem that is rapidly emerging to support these capabilities.</p>
+
+<p>Lexica is a search engine for (prompt, image) pairs that overnight reached 55,000 searches.</p>
+
+<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Some Lexica stats 24 hours post-launch:<br /><br />- 51,000 search queries<br />- 7.5 million images served<br />- 2.2 TB in bandwidth <br /><br />thank god for cloudflare</p>&mdash; Sharif Shameem (@sharifshameem) <a href="https://twitter.com/sharifshameem/status/1562872737495785472?ref_src=twsrc%5Etfw">August 25, 2022</a></blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<p>Other tools like <a href="https://twitter.com/wbuchw/status/1563162131024920576">Photoshop plugins</a>, <a href="https://twitter.com/RemitNotPaucity/status/1562319004563173376">Figma plugins</a>, <a href="https://twitter.com/altryne/status/1563452692399214594">Web GUIs</a>, and more have launched within days of the release of the open source Stable Diffusion model. We’re witnessing the genesis of an entirely new market for art.</p>
+
+<h1 id="emergent-capabilities-from-llms-as-they-get-bigger">Emergent capabilities from LLMs as they get bigger</h1>
+
+<p>While image generation models are deservedly getting a tremendous amount of attention, large language models that generate text and quietly making strides. I believe there is an enormous amount of value to tap from these language models which have shown signs of reasoning, logic and inference. The challenge with these models is that they often make stuff up that ranges from superficially plausible to obviously wrong. But researchers are working to quickly solve for these deficiencies.</p>
+
+<p>I see two broad areas of effort. The first is increasing the size of the models. The remarkable empirical observation is that as you increase the size of the model, new capabilities <em>emerge!</em> Although recently new results in this area seem to have slowed and there is <a href="https://twitter.com/davisblalock/status/1563455844670246912">evidence of hitting a wall</a> with parameter count in recommender systems which needs to be made up for with more data.</p>
+
+<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">New survey paper! We discuss “emergent abilities” of large language models.<br /><br />Emergent abilities are only present in sufficiently large models, and thus they would not have been predicted simply by extrapolating the scaling curve from smaller models.<a href="https://t.co/qX3OtaPQH9">https://t.co/qX3OtaPQH9</a><br /><br />🧵⬇️ <a href="https://t.co/CNiExpxjD1">pic.twitter.com/CNiExpxjD1</a></p>&mdash; Jason Wei (@_jasonwei) <a href="https://twitter.com/_jasonwei/status/1537230731599962112?ref_src=twsrc%5Etfw">June 16, 2022</a></blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<p>The other area of progress is in sequentially interacting with one or multiple language models to carry out a more robust reasoning process. While this is bearing fruit, it’s not yet a solve problem. Still, given the pace of progress, it seems reasonable that in 12-24 months these models will be capable and robust <em>enough</em> to deliver real world value.</p>
+
+<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">I’m pleased to announce a new <a href="https://twitter.com/DeepMind?ref_src=twsrc%5Etfw">@DeepMind</a> paper on work led by <a href="https://twitter.com/ToniCreswell?ref_src=twsrc%5Etfw">@ToniCreswell</a>: <a href="https://t.co/uCeDu4Prhx">https://t.co/uCeDu4Prhx</a>. Our system makes sequential calls to several fine-tuned language models to solve multi-step reasoning problems, producing an explicit, interpretable reasoning trace. 1/n <a href="https://t.co/MUafxx4WVh">pic.twitter.com/MUafxx4WVh</a></p>&mdash; Murray Shanahan (@mpshanahan) <a href="https://twitter.com/mpshanahan/status/1565329081251827713?ref_src=twsrc%5Etfw">September 1, 2022</a></blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<h1 id="ai-tailwinds">AI Tailwinds</h1>
+
+<p>Progress in AI capabilities is accelerating thanks to a growing body of researchers and practitioners, improved <a href="https://wandb.ai/site">infrastructure</a> for training and serving AI models, acquiring and <a href="https://snorkel.ai/">labeling data</a>, decreasing costs of <a href="https://www.mosaicml.com/">training</a> and <a href="https://www.banana.dev/">serving</a> <a href="https://arxiv.org/abs/2208.07339">models</a>, <a href="https://stability.ai/">open sourcing</a> of state-of-the-art models, web-scale data sets to train on, and Moore’s law giving us more compute power.</p>
+
+<p>I see a number of tailwinds for launching successful AI products:</p>
+
+<ul>
+  <li>Model capabilities are compounding at a high rate, e.g. Language Models, Image Generation, etc. —&gt; What’s technically infeasible today can be extrapolated to be feasible in 18-36 months. For example, generating incredible images is possible today and we are seeing the earliest <a href="https://twitter.com/fabianstelzer/status/1565085199322456069">AI generated motion pictures</a>. It seems like a reasonable bet that in 18-36 months we will have personalized and entertaining, AI generated movies and shows. Now is the time to start building that <a href="https://runwayml.com/">product</a>, because if you wait until it’s possible, you’re already too late.</li>
+  <li>Infrastructure innovation is making it possible for small orgs to independently build, train and run very capable state-of-the-art models. Stable Diffusion can be run on consumer hardware and <a href="https://www.notion.so/Emergent-Abilities-of-Large-Language-Models-Papers-With-Code-d0fb901cbc444bff994965e508d9ffce">MosaicML</a> is rapidly making progress in training and serving large language models.</li>
+  <li>Model training and inference costs will halve every (6-18?) months. Progress here is rapid due to improving model architectures (e.g. stable diffusion), lower cost inference with <a href="http://Banana.dev">serverless GPU infrastructure</a>, decreasing memory footprint for serving models by using techniques to <a href="https://arxiv.org/abs/2208.07339">convert trained model parameters</a> to lower precision data types, and [sparse activation] (https://t.co/C5Aqt738QW). Uneconomical today will become economical in the future. Again, now is the time to start building.</li>
+</ul>
+
+<h1 id="the-right-mental-model">The right mental model</h1>
+
+<p>I think it’s important to have the right mental model for predicting the future capabilities and therefore value-creation opportunities for AI. The key insight is that because progress is compounding at a high rate, we have to extrapolate <em>exponentially,</em> not linearly.</p>
+
+<p>I’m particularly excited about progress in improving large language models, multi-modal models and <a href="https://www.deepmind.com/publications/a-generalist-agent">multi-modal/multi-task models</a> trained with reinforcement learning.</p>
+
+<h1 id="conclusion">Conclusion</h1>
+
+<p>AI today feels like the internet circa 1995 where the adoption and impact is ready to explode — the vast majority of successful products and startups have yet to be launched. As the folks at <a href="https://aigrant.org/">AI Grant</a> say, “it’s a new world; there is no map.”</p>
+ ]]></content>
+</entry>
+
+
+  <entry>
+  <title type="text">How to get started with Large Language Models</title>
+  <link rel="alternate" type="text/html" href="http://blennon.github.io//getting-started_with_llms.html" />
+  <id>http://blennon.github.io//getting-started_with_llms</id>
+  <published>2022-08-15T00:00:00Z</published>
+  <updated>2022-08-15T00:00:00Z</updated>
+  <content type="html"><![CDATA[ <p>I’ve had a few folks ask me what the best way to get started with large language models (LLMs) is so I decided create a post about it.</p>
+
+<h1 id="get-access-to-a-playground-environment">Get access to a playground environment.</h1>
+<p>You can use OpenAI, AI21, Co:here, or Bloom (on HuggingFace). Each of these will give you free credits to play around.</p>
+
+<p>Start by playing around and building your intuition for what the models can do.</p>
+
+<h1 id="learn-prompt-engineering-techniques">Learn prompt engineering techniques</h1>
+<p>LLMs are incredibly powerful but often require some technique to tease out the desired behavior. <a href="https://www.analyticsvidhya.com/blog/2022/05/prompt-engineering-in-gpt-3/">This article</a> provides a high level overview. <a href="https://docs.cohere.ai/prompt-engineering-wiki/">This tutorial</a> from the Cohere docs is also great.</p>
+
+<p>This is a quickly evolving art and there are a number of “GPT” whisperers out there like <a href="https://www.youtube.com/c/DavidShapiroAutomator">David Shapiro</a>, <a href="https://twitter.com/goodside">Riley Goodside</a> and <a href="https://gwern.net/GPT-3">Gwern</a>. I recommend participating in a communities like <a href="https://www.reddit.com/r/GPT3/">/r/GPT3/</a> and (https://community.openai.com/).</p>
+
+<h1 id="learn-about-how-llms-work-under-the-hood">Learn about how LLMs work under the hood</h1>
+<p>Read <a href="https://jalammar.github.io/how-gpt3-works-visualizations-animations/">Jay Alammar’s overview of GPT-3</a> and then dive deeper into how the <a href="https://jalammar.github.io/illustrated-transformer/">Transformer</a> architecture works.</p>
+ ]]></content>
+</entry>
+
+
+
+</feed>
